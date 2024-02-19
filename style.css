@@ -22,7 +22,7 @@ body {
   z-index: 10;
   background-color: transparent;
 }
-.show{
+.show {
   display: block;
 }
 h1 {
@@ -72,4 +72,9 @@ h1 {
   color: white;
   font-size: 25px;
   font-weight: 700;
+}
+.score {
+  color: white;
+  font-size: 25px;
+  margin-top: -10px;
 }
