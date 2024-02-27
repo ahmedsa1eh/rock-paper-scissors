@@ -9,6 +9,7 @@ This is a simple web application for playing the classic game of Rock, Paper, Sc
 <h2>Features:</h2>
 
 Allows the user to play Rock, Paper, Scissors against the computer.
+
 Visually appealing interface with responsive design.
 
 <h2>Installation:</h2>
